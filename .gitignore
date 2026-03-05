@@ -12,6 +12,7 @@ crash.*.log
 
 # Sentinel
 *.json.tmp
+.sentinel/
 
 # IDE
 .vscode/
