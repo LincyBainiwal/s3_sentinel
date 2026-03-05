@@ -1,0 +1,10 @@
+{
+	"records": [
+		{
+			"key": "s3-block-public-access-bucket-level",
+			"source": "./policies/s3/s3-block-public-access-bucket-level.sentinel",
+			"sourceSum": "",
+			"dest": "/Users/lincybainiwal/Desktop/sentinel/learnsentinel/policies/s3/s3-block-public-access-bucket-level.sentinel"
+		}
+	]
+}
